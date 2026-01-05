@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Lab Natty Or Not (DIO) - LinguaFoco
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A minha criação junto com o PartyRock foi o LinguaFoco, um app que te ajuda a criar alguns passos necessários para aprender determinado assunto de um idioma. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa PartyRock para criação do site.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O app foi criado através de um prompt no próprio PartyRock, algumas alterações no prompt precisaram ser feitas até que o app funcionasse de forma satisfatória.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O link para acessá-lo está aqui: https://partyrock.aws/u/julia-gmatias/yOc2dfjs-/LinguaFoco
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Como o intuito do meu projeto foi criar um app que irá te ajudar nos estudos de línguas, acredito que o mesmo seja útil para o dia a dia, porém outros apps já tem a mesma funcionalidade que ele. Ainda assim, foi uma ótima forma de testar o PartyRock e as suas habilidades.
